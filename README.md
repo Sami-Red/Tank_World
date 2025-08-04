@@ -34,11 +34,11 @@ The objective was to design a simple but complete multiplayer experience using U
 
 ## Folder Structure (Simplified)
 Assets/
-- Scripts/ # Player control, shooting, networking
-- Prefabs/ # Player tanks, bullets, UI
-- Scenes/ # Main menu, lobby, game arena
-- Resources/ # Networked prefabs, assets
-- UI/ # Health bars, join/create menu
+- Scripts/ Player control, shooting, networking
+- Prefabs/ Player tanks, bullets, UI
+- Scenes/ Main menu, lobby, game arena
+- Resources/ Networked prefabs, assets
+- UI/ Health bars, join/create menu
 ProjectSettings/
 Packages/
 
