@@ -19,7 +19,7 @@ The objective was to design a simple but complete multiplayer experience using U
 - **Health, death, and respawn system**  
 - **Basic lobby system** for joining/creating rooms  
 - **Syncing movement, rotation, bullets, and health across players**  
-- Designed using [Photon Unity Networking (PUN2)]
+- Designed using [Photon Unity Networking (PUN2)](https://www.photonengine.com/pun). 
 
 ## Preview
 
@@ -29,7 +29,7 @@ The objective was to design a simple but complete multiplayer experience using U
 
 - Unity (URP)  
 - C#  
-- [Photon PUN2] or [Unity Netcode for GameObjects] *(whichever applies)*  
+- [Photon PUN2](https://www.photonengine.com/pun).
 - Designed for Windows PC
 
 ## Folder Structure (Simplified)
@@ -58,7 +58,4 @@ This project was completed for assessment and is no longer in active development
 
 ## 👤 Developer
 
-Solo project by [Sami](https://github.com/Sami-Red) as part of a final-year module at [The University of Westminster].
-
----
-
+Solo project by [Sami](https://github.com/Sami-Red) as part of a final-year module at [The University of Westminster](https://www.westminster.ac.uk).
