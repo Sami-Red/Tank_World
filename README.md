@@ -1,7 +1,7 @@
 # Tank World  
 **Unity | Multiplayer Top-Down Shooter | Final Year University Project**
 
-**Tank World** is a top-down multiplayer shooter built in Unity as part of a final-year university module focused on **networked gameplay systems**. The project explores core multiplayer concepts such as client-server communication, sync of movement and actions, and network authority.
+**Tank World** is a top-down multiplayer shooter built in Unity as part of a final-year university module **Games Networking and Security**. The project explores core multiplayer concepts such as client-server communication, sync of movement and actions, and network authority.
 
 ## Project Goal
 
@@ -32,18 +32,18 @@ The objective was to design a simple but complete multiplayer experience using U
 - [Photon PUN2] or [Unity Netcode for GameObjects] *(whichever applies)*  
 - Designed for Windows PC
 
-## 📁 Folder Structure (Simplified)
+## Folder Structure (Simplified)
 Assets/
-├── Scripts/ # Player control, shooting, networking
-├── Prefabs/ # Player tanks, bullets, UI
-├── Scenes/ # Main menu, lobby, game arena
-├── Resources/ # Networked prefabs, assets
-├── UI/ # Health bars, join/create menu
+- Scripts/ # Player control, shooting, networking
+- Prefabs/ # Player tanks, bullets, UI
+- Scenes/ # Main menu, lobby, game arena
+- Resources/ # Networked prefabs, assets
+- UI/ # Health bars, join/create menu
 ProjectSettings/
 Packages/
 
 
-## 🧠 Lessons Learned
+## Lessons Learned
 
 This project helped me understand:
 
@@ -52,7 +52,7 @@ This project helped me understand:
 - Networked prefab spawning and state updates  
 - Debugging and testing multiplayer issues in Unity
 
-## 📌 Project Status
+## Project Status
 
 This project was completed for assessment and is no longer in active development, but it remains a portfolio piece showcasing my work with networked gameplay in Unity.
 
