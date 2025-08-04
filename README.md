@@ -32,7 +32,7 @@ The objective was to design a simple but complete multiplayer experience using U
 - [Photon PUN2](https://www.photonengine.com/pun).
 - Designed for Windows PC
 
-## Folder Structure (Simplified)
+## Folder Structure
 Assets/
 - Scripts/ Player control, shooting, networking
 - Prefabs/ Player tanks, bullets, UI
