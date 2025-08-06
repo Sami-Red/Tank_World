@@ -22,6 +22,7 @@ The objective was to design a simple but complete multiplayer experience using U
 - Designed using [Photon Unity Networking (PUN2)](https://www.photonengine.com/pun). 
 
 ## Preview
+[![Watch the demo](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](https://www.youtube.com/watch?v=QVZCABMrXkU)
 
 [Play it on Itch.io](https://saaami.itch.io/tank-world)  
 
